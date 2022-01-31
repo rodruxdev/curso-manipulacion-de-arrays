@@ -1,5 +1,5 @@
 const products = [
-  {title: "Pizza", price: 121, id: "🍕"},  
+  {title: "Pizza", price: 121, id: "🍕"},
   { name: "Burger", price: 121, id: '🍔' },
   { name: "Hot cakes", price: 121, id: '🥞' },
 ];
@@ -16,7 +16,7 @@ console.log("MyProducts:", myProducts);
 console.log("-".repeat(10));
 
 const products2 = [
-  {title: "Pizza", price: 121, id: "🍕"},  
+  {title: "Pizza", price: 121, id: "🍕"}, 
   { name: "Burger", price: 121, id: '🍔' },
   { name: "Hot cakes", price: 121, id: '🥞' },
 ];
