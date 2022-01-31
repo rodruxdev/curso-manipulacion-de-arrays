@@ -30,6 +30,9 @@ const team = [
   },
   {
     name: "Santiago",
-    age: 18,
+    age: 14,
   },
 ];
+
+const challenge = team.every(player => player.age <= 15);
+console.log(challenge)
