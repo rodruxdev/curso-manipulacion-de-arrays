@@ -1,1 +1,2 @@
 # curso-manipulacion-de-arrays
+Este es un repositorio con el avance y solución de retos del curso de [Manipulación de Arrays en JavaScript](https://platzi.com/cursos/arrays/) de [Platzi](https://platzi.com).
